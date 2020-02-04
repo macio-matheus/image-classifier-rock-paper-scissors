@@ -12,7 +12,7 @@ Rock Paper Scissors contains images from a variety of different hands,  from dif
 
 ![Pie](https://raw.githubusercontent.com/macio-matheus/image-classifier-rock-paper-scissors/master/docs/pie.jpg)
 
-![hist](https://raw.githubusercontent.com/macio-matheus/image-classifier-rock-paper-scissors/master/docs/data_hist.png)
+![hist](https://raw.githubusercontent.com/macio-matheus/image-classifier-rock-paper-scissors/master/docs/data_hist.jpg)
 
 
 ### The CNN Summary
