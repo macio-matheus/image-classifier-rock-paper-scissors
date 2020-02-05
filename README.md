@@ -40,7 +40,7 @@ Below is the graph of loss and accuracy in training and validation sets during t
 
 ### Test live
 
-Prediction performed on images that were outside the training set and validation. The crabs were intentionally pointed in circle format to cause error in the model:
+Prediction performed on images that were outside the training set and validation:
 
 ![result](https://raw.githubusercontent.com/macio-matheus/image-classifier-rock-paper-scissors/master/docs/result.png)
 
